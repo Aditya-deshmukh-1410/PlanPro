@@ -12,6 +12,11 @@
 
 ---
 
+## Demo of UI:
+<img src="assets/image.png" alt="Screenshot 1" width="300"/>
+<img src="assets/image2.png" alt="Screenshot 2" width="300"/>
+
+
 ## 🛠️ Tech Stack
 
 * **Framework:** React
