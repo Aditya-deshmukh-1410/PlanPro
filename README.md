@@ -1,4 +1,4 @@
-# 🚀 PlanPro: Your Daily Fitness Architect
+# 🚀 PlanPro: Your Daily Fitness Architect.
     
 **PlanPro** is a modern, mobile-first event scheduler designed to help users organize their fitness sessions and track exercises effortlessly. Built with React and designed for a clean, intuitive user experience.
 
